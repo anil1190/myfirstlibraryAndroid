@@ -1,0 +1,2 @@
+include ':app', ':mypreflibrary'
+rootProject.name='MySdkDemo'
